@@ -1,2 +1,2 @@
 # Class-ComputerGraphicsAndMathematics
-2024年秋学期 授業用
+2024年秋学期 CGと数学
